@@ -1,4 +1,4 @@
-- Hi, I’m Jim @jback16
+- Hi, I’m Jim @jback16 .
 
 <!---
 jback16/jback16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
